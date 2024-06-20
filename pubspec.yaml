@@ -1,7 +1,7 @@
 name: thirdparty_keyboard_checker
 description: "Check the application using a 3rd-party keyboard on Android"
 version: 1.0.0
-homepage:
+homepage: https://github.com/prongbang/thirdparty_keyboard_checker
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
